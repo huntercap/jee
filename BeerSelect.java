@@ -42,6 +42,7 @@ public class BeerSelect extends HttpServlet {
 	}
 	
 	//This is the mothe for lunch dirct.
+	//This is trd modfi
 	public void doGet(HttpServletRequest request, 
 			HttpServletResponse response) 
 			throws ServletException, IOException {
